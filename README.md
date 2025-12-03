@@ -84,15 +84,13 @@ Frontend: https://github.com/kazyosha/market-hub-client
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kazyosha&show_icons=true&theme=tokyonight"
-  height="165"
-/>
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?login=kazyosha&theme=tokyonight" height="170"/>
+</p>
 
-<img
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kazyosha&layout=compact&theme=tokyonight"
-  height="165"
-/>
+<p align="center">
+  <img src="https://stats.dooboo.io/api/top-langs?login=kazyosha&theme=tokyonight" height="170"/>
+</p>
 
 </div>
 
