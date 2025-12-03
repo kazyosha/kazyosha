@@ -1,14 +1,19 @@
-<h1 align="center">👋 Xin chào, tôi là Phạm Chí Tâm</h1>
-<h3 align="center">Java Full-stack Developer</h3>
+<!-- HEADER + TYPING EFFECT -->
+<h1 align="center">👋 Xin chào, tôi là <span style="color:#00d9ff">Phạm Chí Tâm</span></h1>
+<h3 align="center">🚀 Java Full-stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&size=22&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+ReactJS;Luôn+sẵn+sàng+học+hỏi+và+phát+triển!">
+</p>
 
 ---
 
-## 🧑‍💻 Giới thiệu
+## 🧑‍💻 <span style="color:#22D3EE">Giới thiệu</span>
 Tôi là một **Fresher Java Backend Developer**, đam mê xây dựng ứng dụng thực tế bằng Spring Boot và ReactJS. Tôi mong muốn phát triển sự nghiệp trong môi trường chuyên nghiệp, học hỏi quy trình phát triển phần mềm và đóng góp vào sự ổn định của hệ thống.
 
 ---
 
-## 🚀 Kỹ năng chuyên môn
+## 🚀 <span style="color:#22D3EE">Kỹ năng chuyên môn</span>
 
 ### 🔹 Backend Development
 - Java Core, OOP, MVC Model  
@@ -28,7 +33,7 @@ Tôi là một **Fresher Java Backend Developer**, đam mê xây dựng ứng d�
 
 ---
 
-## 📂 Dự án tiêu biểu
+## 📂 <span style="color:#22D3EE">Dự án tiêu biểu</span>
 
 ---
 
@@ -80,36 +85,38 @@ Frontend: https://github.com/kazyosha/market-hub-client
 
 ---
 
-## 📊 GitHub Stats
+## 📊 <span style="color:#22D3EE">GitHub Stats</span>
 
 <div align="center">
 
   <img 
     src="https://stats.dooboo.io/api/github-stats?login=kazyosha&theme=tokyonight" 
     height="170" 
-    style="margin-right: 20px;"
+    style="margin-right: 25px; border-radius:10px;"
   />
 
   <img 
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kazyosha&layout=compact&theme=tokyonight" 
     height="170"
+    style="border-radius:10px;"
   />
 
 </div>
 
 ---
 
-## 🔥 Biểu đồ đóng góp
+## 🔥 <span style="color:#22D3EE">Biểu đồ đóng góp</span>
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kazyosha&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazyosha&theme=tokyo-night" style="border-radius:10px;"/>
 
 </div>
 
 ---
 
-## 📫 Liên hệ
+## 📫 <span style="color:#22D3EE">Liên hệ</span>
+
 - 📧 Email: **chitampham07@gmail.com**  
 - 🌍 GitHub: **github.com/kazyosha**  
 - 📍 Hà Nội, Việt Nam  
