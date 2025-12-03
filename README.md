@@ -1,126 +1,127 @@
-<!-- HEADER + TYPING EFFECT -->
-<h1 align="center">👋 Xin chào, tôi là <span style="color:#00d9ff">Phạm Chí Tâm</span></h1>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/0y0Fq5Y.png" width="100%" alt="Banner"/>
+</p>
+
+<!-- NAME + ROLE -->
+<h1 align="center" style="font-weight:700;">
+  👋 Xin chào, tôi là <span style="color:#00e5ff">Phạm Chí Tâm</span>
+</h1>
 <h3 align="center">🚀 Java Full-stack Developer</h3>
 
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&size=22&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+ReactJS;Luôn+sẵn+sàng+học+hỏi+và+phát+triển!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=20E3FF&size=22&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+%7C+ReactJS;Yêu+thích+hệ+thống+và+giải+pháp;Luôn+sẵn+sàng+học+hỏi+và+phát+triển!">
 </p>
 
 ---
 
-## 🧑‍💻 <span style="color:#22D3EE">Giới thiệu</span>
-Tôi là một **Fresher Java Backend Developer**, đam mê xây dựng ứng dụng thực tế bằng Spring Boot và ReactJS. Tôi mong muốn phát triển sự nghiệp trong môi trường chuyên nghiệp, học hỏi quy trình phát triển phần mềm và đóng góp vào sự ổn định của hệ thống.
+## 🧑‍💻 **Giới thiệu**
+Tôi là một **Fresher Java Backend Developer**, đam mê xây dựng ứng dụng thực tế bằng Spring Boot và ReactJS.  
+Mong muốn phát triển trong môi trường chuyên nghiệp, học hỏi quy trình phát triển phần mềm và đóng góp vào sự ổn định của hệ thống.
 
 ---
 
-## 🚀 <span style="color:#22D3EE">Kỹ năng chuyên môn</span>
+# 🚀 **Kỹ năng chuyên môn**
 
-### 🔹 Backend Development
-- Java Core, OOP, MVC Model  
-- Spring Boot, Spring Security, Hibernate, JPA  
-- RESTful API, Exception Handling, Validation  
-- JDBC, Java Collection, DSA  
+## 🔥 Ngôn ngữ & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,regex" height="45"/>
+</p>
 
-### 🔹 Frontend Development
-- HTML / CSS / JavaScript  
-- ReactJS, jQuery  
-- Tailwind CSS, Bootstrap, Thymeleaf  
+## 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="45"/>
+</p>
 
-### 🔹 Database & Tools
-- MySQL, MySQL Workbench  
-- Git / GitHub  
-- Docker, Postman, IntelliJ IDEA, VS Code, Trello  
-
----
-
-## 📂 <span style="color:#22D3EE">Dự án tiêu biểu</span>
+## 🗄 Database & DevTools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postman,docker,git,idea,vscode" height="45"/>
+</p>
 
 ---
 
-### 📚 **Dự án Quản lý Thư viện**  
+# 📂 **Dự án tiêu biểu**
+
+---
+
+## 📚 **Dự án Quản lý Thư viện**
 **Vai trò:** Java Developer  
 **Thời gian:** 09/2025 – 10/2025  
 
-#### 🔍 Mô tả dự án  
-Xây dựng hệ thống quản lý sách, độc giả và hoạt động mượn – trả sách.  
-Hệ thống cho phép thủ thư theo dõi trạng thái mượn, thông tin độc giả và quản lý vòng đời mượn – trả.
+### 🔍 Mô tả  
+Hệ thống quản lý sách – độc giả – phiếu mượn, hỗ trợ thủ thư theo dõi vòng đời mượn trả.
 
-#### 🛠 Công nghệ sử dụng  
-Spring Boot, Hibernate, JPA, Spring Security, Thymeleaf, AJAX, MySQL, IntelliJ IDEA, Postman.
+### 🛠 Công nghệ  
+**Spring Boot**, Hibernate, Spring Security, AJAX, MySQL, IntelliJ IDEA, Postman.
 
-#### 📌 Nhiệm vụ của tôi  
-- Khởi tạo Spring Boot, thiết lập cơ sở dữ liệu, tạo cấu trúc thư mục.  
-- Tạo entity và controller mẫu cho dự án.  
-- Xây dựng luồng mượn – trả sách: quản lý độc giả, phiếu mượn, cập nhật trạng thái.  
-- Xử lý logic mượn – trả, tra cứu người dùng, chọn sách, hiển thị ngày mượn tự động.  
+### 📌 Nhiệm vụ  
+- Khởi tạo project Spring Boot & cấu trúc thư mục.  
+- Tạo entity + controller mẫu.  
+- Xây dựng luồng mượn trả, tìm kiếm độc giả, chọn sách, tự động hiển thị ngày mượn.  
 
-#### 🔗 GitHub:  
-👉 https://github.com/kazyosha/project-group
+### 🔗 GitHub  
+👉 https://github.com/kazyosha/project-group  
 
 ---
 
-### 🛒 **Dự án Thương mại Điện tử**  
+## 🛒 **Dự án Thương mại Điện tử**
 **Vai trò:** Full-stack Developer  
 **Thời gian:** 11/2025 – 12/2025  
 
-#### 🔍 Mô tả dự án  
-Phát triển hệ thống thương mại điện tử gồm: quản lý tài khoản & phân quyền, CRUD sản phẩm, giỏ hàng, đặt hàng, theo dõi trạng thái đơn hàng, đánh giá sản phẩm, thông báo và chat realtime.
+### 🔍 Mô tả  
+Hệ thống e-commerce gồm: phân quyền, CRUD sản phẩm, giỏ hàng, đặt hàng, đánh giá, thông báo, realtime chat.
 
-#### 🛠 Công nghệ sử dụng  
-- **Backend:** Spring Boot, Spring Security, JWT, RESTful API, WebSocket, Hibernate  
-- **Frontend:** ReactJS (Vite), Tailwind CSS, STOMP.js, Formik + Yup  
-- **Database:** MySQL  
-- **Tools:** IntelliJ IDEA, VS Code, Postman, Trello  
+### 🛠 Công nghệ  
+Backend: Spring Boot, Security, JWT, WebSocket  
+Frontend: ReactJS (Vite), TailwindCSS, Formik, STOMP.js  
+Database: MySQL  
 
-#### 📌 Nhiệm vụ của tôi  
-- Khởi tạo project backend, thiết lập database, xây dựng cấu trúc thư mục backend.  
-- Tạo entity và controller mẫu, phát triển API chính của hệ thống.  
-- Xây dựng giao diện: trang chủ, trang hồ sơ, giao diện quản lý sản phẩm & đơn hàng.  
-- Xử lý nghiệp vụ đặt hàng, quản lý đơn hàng.  
-- Tích hợp **chat realtime** giữa khách hàng và nhà cung cấp bằng WebSocket + STOMP.  
+### 📌 Nhiệm vụ  
+- Setup backend, database, entity, controller mẫu.  
+- Xây dựng giao diện trang chủ, hồ sơ, quản lý sản phẩm/đơn hàng.  
+- Xử lý logic đặt hàng & quản lý đơn hàng.  
+- Tích hợp realtime chat bằng WebSocket + STOMP.  
 
-#### 🔗 GitHub:  
-Backend: https://github.com/kazyosha/e-commerce-BE  
-Frontend: https://github.com/kazyosha/market-hub-client  
+### 🔗 GitHub  
+- Backend: https://github.com/kazyosha/e-commerce-BE  
+- Frontend: https://github.com/kazyosha/market-hub-client  
 
 ---
 
-## 📊 <span style="color:#22D3EE">GitHub Stats</span>
-
-<div align="center">
-
+# 📊 **GitHub Stats**
+<div align="center" style="padding: 20px; background: linear-gradient(135deg,#0d1b2a,#1b263b); border-radius:15px; width:90%;">
+  
   <img 
     src="https://stats.dooboo.io/api/github-stats?login=kazyosha&theme=tokyonight" 
-    height="170" 
-    style="margin-right: 25px; border-radius:10px;"
+    height="170"
+    style="margin-right: 20px; border-radius: 12px;"
   />
 
   <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kazyosha&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kazyosha&layout=compact&theme=tokyonight"
     height="170"
-    style="border-radius:10px;"
+    style="border-radius: 12px;"
   />
 
 </div>
 
 ---
 
-## 🔥 <span style="color:#22D3EE">Biểu đồ đóng góp</span>
-
+# 🔥 **Biểu đồ đóng góp**
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazyosha&theme=tokyo-night" style="border-radius:10px;"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazyosha&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 </div>
 
 ---
 
-## 📫 <span style="color:#22D3EE">Liên hệ</span>
-
+# 📫 **Liên hệ**
 - 📧 Email: **chitampham07@gmail.com**  
 - 🌍 GitHub: **github.com/kazyosha**  
 - 📍 Hà Nội, Việt Nam  
 
 ---
 
-<h3 align="center">⭐ Nếu bạn thấy dự án của tôi hữu ích, hãy tặng 1 ⭐ nhé!</h3>
+<h2 align="center">⭐ Nếu bạn thấy dự án của tôi hữu ích, hãy tặng 1 ⭐ nhé!</h2>
