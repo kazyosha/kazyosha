@@ -89,7 +89,7 @@ Frontend: https://github.com/kazyosha/market-hub-client
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kazyosha&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kazyosha&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 </div>
