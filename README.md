@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/8jY7tgb.png" width="100%" alt="Pham Chi Tam Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4500ff,50:8a00ff,100:ff0099&height=220&section=header&text=Pham%20Chi%20Tam%20%7C%20Java%20Developer&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <!-- NAME + ROLE -->
