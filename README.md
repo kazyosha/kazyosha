@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4500ff,50:8a00ff,100:ff0099&height=220&section=header&text=Pham%20Chi%20Tam%20%7C%20Java%20Developer&fontSize=40&fontAlignY=35&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Pham%20Chi%20Tam%20⚡%20Java%20Developer&fontSize=42&fontAlignY=35&desc=Fullstack%20%7C%20Spring%20Boot%20%7C%20ReactJS&descSize=18&descAlignY=55&animation=twinkling" />
 </p>
 
 <!-- NAME + ROLE -->
