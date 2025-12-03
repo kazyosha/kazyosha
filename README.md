@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/0y0Fq5Y.png" width="100%" alt="Banner"/>
+  <img src="https://i.imgur.com/8jY7tgb.png" width="100%" alt="Pham Chi Tam Banner"/>
 </p>
 
 <!-- NAME + ROLE -->
