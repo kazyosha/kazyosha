@@ -84,9 +84,9 @@ Frontend: https://github.com/kazyosha/market-hub-client
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazyosha&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=kazyosha&show_icons=true&theme=tokyonight" height="165" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazyosha&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazyosha&layout=compact&theme=tokyonight" height="165" />
 
 </div>
 
