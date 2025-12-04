@@ -1,4 +1,4 @@
-<!-- BANNER -->
+<!-- BANNER (GIỮ NGUYÊN BANNER CŨ) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Pham%20Chi%20Tam%20⚡%20Java%20Developer&fontSize=42&fontAlignY=35&desc=Fullstack%20%7C%20Spring%20Boot%20%7C%20ReactJS&descSize=18&descAlignY=55&animation=twinkling" />
 </p>
@@ -7,7 +7,15 @@
 <h1 align="center" style="font-weight:700;">
   👋 Xin chào, tôi là <span style="color:#00e5ff">Phạm Chí Tâm</span>
 </h1>
-<h3 align="center">🚀 Java Full-stack Developer</h3>
+<h3 align="center">🚀 Java Fullstack Developer</h3>
+
+<!-- BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 <!-- TYPING EFFECT -->
 <p align="center">
@@ -17,8 +25,8 @@
 ---
 
 ## 🧑‍💻 **Giới thiệu**
-Tôi là một **Fresher Java Backend Developer**, đam mê xây dựng ứng dụng thực tế bằng Spring Boot và ReactJS.  
-Mong muốn phát triển trong môi trường chuyên nghiệp, học hỏi quy trình phát triển phần mềm và đóng góp vào sự ổn định của hệ thống.
+Tôi là **Fresher Java Backend Developer**, đam mê xây dựng ứng dụng thực tế bằng Spring Boot và ReactJS.  
+Luôn mong muốn học hỏi quy trình phát triển phần mềm, tối ưu API và đóng góp vào việc vận hành hệ thống ổn định – mở rộng tốt.
 
 ---
 
@@ -64,15 +72,15 @@ Mong muốn phát triển trong môi trường chuyên nghiệp, học hỏi quy
 **Thời gian:** 09/2025 – 10/2025  
 
 ### 🔍 Mô tả  
-Hệ thống quản lý sách – độc giả – phiếu mượn, hỗ trợ thủ thư theo dõi vòng đời mượn trả.
+Hệ thống quản lý sách – độc giả – phiếu mượn, giúp thư viện theo dõi toàn bộ vòng đời mượn–trả.
 
 ### 🛠 Công nghệ  
-**Spring Boot**, Hibernate, Spring Security, AJAX, MySQL, IntelliJ IDEA, Postman.
+Spring Boot, Hibernate, JPA, Spring Security, MySQL, Thymeleaf, AJAX
 
 ### 📌 Nhiệm vụ  
-- Khởi tạo project Spring Boot & cấu trúc thư mục.  
+- Khởi tạo dự án (Spring Boot, cấu trúc thư mục, DB).  
 - Tạo entity + controller mẫu.  
-- Xây dựng luồng mượn trả, tìm kiếm độc giả, chọn sách, tự động hiển thị ngày mượn.  
+- Xây dựng tính năng mượn–trả: quản lý độc giả, phiếu mượn, trạng thái.
 
 ### 🔗 GitHub  
 👉 https://github.com/kazyosha/project-group  
@@ -84,18 +92,18 @@ Hệ thống quản lý sách – độc giả – phiếu mượn, hỗ trợ t
 **Thời gian:** 11/2025 – 12/2025  
 
 ### 🔍 Mô tả  
-Hệ thống e-commerce gồm: phân quyền, CRUD sản phẩm, giỏ hàng, đặt hàng, đánh giá, thông báo, realtime chat.
+Hệ thống thương mại điện tử gồm phân quyền, CRUD sản phẩm, giỏ hàng, đặt hàng, đánh giá, thông báo, quản trị và chat realtime.
 
 ### 🛠 Công nghệ  
-Backend: Spring Boot, Security, JWT, WebSocket  
+Backend: Spring Boot, Spring Security, JWT, WebSocket  
 Frontend: ReactJS (Vite), TailwindCSS, Formik, STOMP.js  
 Database: MySQL  
 
 ### 📌 Nhiệm vụ  
-- Setup backend, database, entity, controller mẫu.  
-- Xây dựng giao diện trang chủ, hồ sơ, quản lý sản phẩm/đơn hàng.  
-- Xử lý logic đặt hàng & quản lý đơn hàng.  
-- Tích hợp realtime chat bằng WebSocket + STOMP.  
+- Khởi tạo backend, cấu trúc thư mục, entity/controller.  
+- Xây dựng giao diện chính: trang chủ, hồ sơ, quản lý sản phẩm/đơn hàng.  
+- Xử lý nghiệp vụ đặt hàng, quản lý đơn hàng.  
+- Tích hợp chat realtime WebSocket + STOMP.  
 
 ### 🔗 GitHub  
 - Backend: https://github.com/kazyosha/e-commerce-BE  
@@ -132,9 +140,17 @@ Database: MySQL
 ---
 
 # 📫 **Liên hệ**
-- 📧 Email: **chitampham07@gmail.com**  
-- 🌍 GitHub: **github.com/kazyosha**  
-- 📍 Hà Nội, Việt Nam  
+<p align="center">
+  <a href="mailto:chitampham07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kazyosha">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Hanoi-Vietnam-orange?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
