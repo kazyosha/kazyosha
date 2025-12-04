@@ -50,6 +50,7 @@ Mong muốn phát triển trong môi trường chuyên nghiệp, học hỏi quy
   <img src="https://skillicons.dev/icons?i=postman" height="40"/> <b>Postman</b>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=idea" height="40"/> <b>IntelliJ IDEA</b>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/> <b>VS Code</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/> <b>Vercel</b>&nbsp;&nbsp;
 </p>
 
 ---
