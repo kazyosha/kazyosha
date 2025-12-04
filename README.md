@@ -26,17 +26,30 @@ Mong muốn phát triển trong môi trường chuyên nghiệp, học hỏi quy
 
 ## 🔥 Ngôn ngữ & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,regex" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/> <b>Java</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" height="40"/> <b>Spring Boot</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40"/> <b>Hibernate / JPA</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=regex" height="40"/> <b>MVC / REST API</b>&nbsp;&nbsp;
 </p>
 
 ## 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/> <b>HTML</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> <b>CSS</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40"/> <b>JavaScript</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40"/> <b>ReactJS</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> <b>Bootstrap</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> <b>Tailwind CSS</b>&nbsp;&nbsp;
 </p>
 
 ## 🗄 Database & DevTools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postman,docker,git,idea,vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> <b>MySQL</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> <b>Git / GitHub</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/> <b>Docker</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/> <b>Postman</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea" height="40"/> <b>IntelliJ IDEA</b>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/> <b>VS Code</b>&nbsp;&nbsp;
 </p>
 
 ---
