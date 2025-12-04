@@ -25,8 +25,7 @@
 ---
 
 ## 🧑‍💻 **Giới thiệu**
-Tôi là **Fresher Java Backend Developer**, đam mê xây dựng ứng dụng thực tế bằng Spring Boot và ReactJS.  
-Luôn mong muốn học hỏi quy trình phát triển phần mềm, tối ưu API và đóng góp vào việc vận hành hệ thống ổn định – mở rộng tốt.
+Tôi đặt mục tiêu bắt đầu sự nghiệp với vị trí **Java Backend Developer** và áp dụng kiến thức đã học để tham gia phát triển các API, xử lý nghiệp vụ bằng Spring Boot và cơ sở dữ liệu. **Trong 6 tháng đầu**, tôi hướng đến việc làm chủ quy trình làm việc, nâng cao kỹ năng về Spring Boot, MySQL để tham gia hiệu quả vào các module backend. **Trong 12 tháng tiếp theo**, tôi phấn đấu đạt mức có thể tự thiết kế, triển khai và tối ưu các chức năng backend, đóng góp vào sự ổn định và khả năng mở rộng của hệ thống.
 
 ---
 
