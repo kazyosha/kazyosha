@@ -53,11 +53,11 @@ Tôi đặt mục tiêu bắt đầu sự nghiệp với vị trí **Java Backen
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/> <b>MySQL</b>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="40"/> <b>Git / GitHub</b>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/> <b>Docker</b>&nbsp;&nbsp;
+  <!-- <img src="https://skillicons.dev/icons?i=docker" height="40"/> <b>Docker</b>&nbsp;&nbsp; -->
   <img src="https://skillicons.dev/icons?i=postman" height="40"/> <b>Postman</b>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=idea" height="40"/> <b>IntelliJ IDEA</b>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40"/> <b>VS Code</b>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="40"/> <b>Vercel</b>&nbsp;&nbsp;
+  <!-- <img src="https://skillicons.dev/icons?i=vercel" height="40"/> <b>Vercel</b>&nbsp;&nbsp; -->
 </p>
 
 ---
